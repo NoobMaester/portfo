@@ -366,7 +366,7 @@ header{
     opacity: .5;
 }
 
-.zuri{
+/* .zuri{
     max-width: 1000px;
     text-align: center;
     margin: 2em auto;
@@ -381,7 +381,7 @@ header{
     display: flex;
     justify-content: center;
 
-}
+} */
 
 /*FOOTER SECTION*/
 .footer{
